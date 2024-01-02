@@ -1,0 +1,37 @@
+{
+    "student": [
+        {
+            "studentRollID": 1,
+            "studentID": "DE130014",
+            "studentName": "Lê Văn Trí",
+            "studentEmail" :"trilvde130014@fpt.edu.vn"
+        },
+        {
+            "studentRollID": 2,
+            "studentID": "DE130018",
+            "studentName": "Nguyễn Viết Thuận",
+            "studentEmail" :"thuannvde130018@fpt.edu.vn"
+        },
+        {
+
+            "studentRollID": 3,
+            "studentID": "DE130002",
+            "studentName": "Nguyễn Việt Linh",
+            "studentEmail" :"linhnvde130002@fpt.edu.vn"
+            
+        },
+        {
+            "studentRollID": 4,
+            "studentID": "DE130006",
+            "studentName": "Bùi Thanh Tịnh",
+            "studentEmail" :"tinhbtde130006@fpt.edu.vn"
+        },
+        {
+            "studentRollID":5,
+            "studentID": "DE130045",
+            "studentName": "Nguyễn Tâm Nguyên",
+            "studentEmail" :"nguyenntde130045@fpt.edu.vn"
+        }
+        
+    ]
+}
